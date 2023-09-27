@@ -19,6 +19,7 @@ of "*.smi" file.
 python predict_name_of_algorithm.py [specify_path]*.smi
 
 
-The result will be displayed in the terminal as Molecule to be active or Inactive
+The result will be displayed in the terminal as Molecule to be active or Inactive.
+The supplied test molecule namely "test.smi" in an inactive molecule.
 
  
